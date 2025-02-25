@@ -1,6 +1,6 @@
 # 对抗演化与合作跃升系列书籍
 
-<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/970d3db5-57b4-4c59-97fc-ebc75eb92f48" /></p>
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/970d3db5-57b4-4c59-97fc-ebc75eb92f48" /></p>
 
 《对抗演化与合作跃升》理论发展已初步成型。这套理论大大简化了几十亿年来生命演化和几千年来人类社会变革中重要事件和关键节点的理解。其中包括真核生命的出现、多细胞生命的形成（寒武纪的秘密）、社会性动物的出现、人类的由来、人类社会的发展等。
 
