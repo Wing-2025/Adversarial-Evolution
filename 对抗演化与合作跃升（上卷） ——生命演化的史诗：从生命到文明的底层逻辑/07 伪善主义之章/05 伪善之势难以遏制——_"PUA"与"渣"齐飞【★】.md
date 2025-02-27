@@ -13,7 +13,7 @@
 相信现在大家对PUA（pick-up
 artist）这个词已经并不陌生。PUA作为是一个时髦的词汇，它原指"搭讪艺术"，但现在已经泛指那些通过洗脑和精神控制以达到某种利己目的行为，心理学上又称之为"煤气灯效应"。这种现象绝不仅仅发生在男女之间，它还发生在职场的上下级之间，甚至还发生在同学之间、亲人之间；它也是传销组织和黑社会组织运作的核心原理。
 
-<p align="center"><img width="152" alt="image" src="https://github.com/user-attachments/assets/88320ecc-2c3d-47be-a2b7-e5a8fe60747f" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/88320ecc-2c3d-47be-a2b7-e5a8fe60747f" />
 </p>
 
 大家有没有想过，PUA的基础是什么，为什么别的生物不会发生这样的现象呢？其实PUA的基础是人类的合作关系，合作关系越紧密，越离不开对方，就越容易存在PUA的可能性和可操作性。
@@ -68,7 +68,7 @@ PUA事件本质上属于我们后面将会谈到的伪善导致的演化逆淘�
 
 大家谈到PUA，第一个联想到的就是"渣男"，想到的是"包丽事件"。但实际上伪善的女性一样可怕，苏享茂事件估计大家都有所耳闻。利用"性别红利"搞暧昧，欺骗利用男性的情况不在少数。知乎上也不难找到一些"独白"。
 
-<p align="center"><img width="312" alt="image" src="https://github.com/user-attachments/assets/cef0bcff-c12b-4762-934f-d015f679b805" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/cef0bcff-c12b-4762-934f-d015f679b805" />
 </p>
 
 不过，我非常反对把男女分为不同立场的"性别阶级观"。大部分情况下，这种拉帮结派的手段都是为了达到自己不可告人的目的。
@@ -79,7 +79,7 @@ PUA事件本质上属于我们后面将会谈到的伪善导致的演化逆淘�
 
 同样的道理会发生在渣女身上，那些老实的、正直的、愿意主动付出的、负责任的、有担当的男性因受到渣女的伤害，会变得越来越少（如苏享茂）。而相反的，那些不负责任、光有光鲜外表的、蒙骗女性的渣男却反而越来越多。
 
-<p align="center"><img width="245" alt="image" src="https://github.com/user-attachments/assets/e46d1caa-7645-492a-8f6c-8b072f62fe52" /></p>
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/e46d1caa-7645-492a-8f6c-8b072f62fe52" /></p>
 
 [更可怕的是，"性择逆向"的出现。因为那些专门欺骗女性的"渣男"常常获得遗传优势，结果那些"喜欢渣男"的基因会伴随着"渣男"的遗传优势而获得优势。这时候女性性择的趋势被篡改了。因此我们就不难解释"男人不坏女人不爱"的原理了。]()尽管那些携带"喜欢渣男"的基因的女性被渣男虐得死去活来，但她们依然"不撞南墙不回头"，因为她的后代的"遗传优势"相当"强大"——"渣男"的基因会帮助性择基因——也就是"喜欢渣男"的基因传播下去。
 
