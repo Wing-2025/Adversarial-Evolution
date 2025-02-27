@@ -68,7 +68,7 @@ PUA事件本质上属于我们后面将会谈到的伪善导致的演化逆淘�
 
 大家谈到PUA，第一个联想到的就是"渣男"，想到的是"包丽事件"。但实际上伪善的女性一样可怕，苏享茂事件估计大家都有所耳闻。利用"性别红利"搞暧昧，欺骗利用男性的情况不在少数。知乎上也不难找到一些"独白"。
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/cef0bcff-c12b-4762-934f-d015f679b805" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/cef0bcff-c12b-4762-934f-d015f679b805" />
 </p>
 
 不过，我非常反对把男女分为不同立场的"性别阶级观"。大部分情况下，这种拉帮结派的手段都是为了达到自己不可告人的目的。
