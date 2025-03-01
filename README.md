@@ -1,7 +1,7 @@
 
 # 对抗演化与合作跃升系列书籍
 
-原书链接：[https://www.zhihu.com/question/39474276/answer/3424199358](https://www.zhihu.com/question/39474276/answer/3424199358)
+原书连载链接：[有哪些让你浑身颤抖、无法自拔，庆幸读到的好书？](https://www.zhihu.com/question/39474276/answer/3424199358)
 
 <p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/970d3db5-57b4-4c59-97fc-ebc75eb92f48" /></p>
 
