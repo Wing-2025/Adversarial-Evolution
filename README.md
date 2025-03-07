@@ -1,3 +1,5 @@
+# 创作背景
+<p align="center"><img width="1280" alt="image" src="https://github.com/user-attachments/assets/95270e1a-3b9b-4969-909b-c29281a147d9" /></p>
 
 # 对抗演化与合作跃升系列书籍
 
