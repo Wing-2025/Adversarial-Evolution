@@ -1,4 +1,7 @@
 # 创作背景
+
+近两个世纪以来，人类科学技术得到了长足的发展，但精神文明和幸福感却每况愈下。
+
 <p align="center"><img width="1280" alt="image" src="https://github.com/user-attachments/assets/95270e1a-3b9b-4969-909b-c29281a147d9" /></p>
 
 # 对抗演化与合作跃升系列书籍
