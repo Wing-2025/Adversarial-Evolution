@@ -44,7 +44,7 @@
 在埃迪卡拉纪，宏体生物群出现了，他们是当时的高级掠食者。当时的海水中飘荡着细菌，单细胞藻类，原生动物，多细胞动物的卵和幼体，藻类和真菌的孢子，以及死去动植物的残骸碎屑。丰富的食物，和有史以来最高水平的溶解氧含量，使得多细胞掠食者慢慢演化成宏体生物。
 
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/2cd25b15-5104-4214-8313-ff4165cf210e" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/2cd25b15-5104-4214-8313-ff4165cf210e" />
 </p>
 
 宏体生物最先改变的是体型。既然食物和氧气都飘散在海水里，那么和海水的接触面积越大，就能获得更多的食物和氧气。在呼吸系统和消化系统出现之前，它们把自己摊成的一层薄薄大饼，让每个细胞都直接和海水接触，完成滤食和呼吸，成为多细胞动物们的最成功的生存策略。
@@ -70,7 +70,7 @@
 Predator）也登上了历史舞台——猎杀一级掠食者的动物。埃迪卡拉纪的那些毫无防备的宏体生物，几乎全都灭绝。而称霸这个时代的顶级掠食者是体型超过1米的奇虾。恐虾类是地球上最早出现的大型掠食动物。它们在寒武纪的海洋中建立了自己的王朝，并一直延续到奥陶纪初期。
 
 <p align="center">
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/f3f354d8-bee0-4f65-8e49-fbc45bfe95aa" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f3f354d8-bee0-4f65-8e49-fbc45bfe95aa" />
 </p>
 
 面对顶级掠食者的猖獗演化，低级的掠食者也对抗演化出各种防御措施，其中外骨骼及其不同的演化形态，成为了他们的主要防御措施。
