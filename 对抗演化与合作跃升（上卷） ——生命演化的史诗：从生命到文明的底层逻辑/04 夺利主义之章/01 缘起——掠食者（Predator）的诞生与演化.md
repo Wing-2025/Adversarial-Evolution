@@ -70,7 +70,7 @@
 Predator）也登上了历史舞台——猎杀一级掠食者的动物。埃迪卡拉纪的那些毫无防备的宏体生物，几乎全都灭绝。而称霸这个时代的顶级掠食者是体型超过1米的奇虾。恐虾类是地球上最早出现的大型掠食动物。它们在寒武纪的海洋中建立了自己的王朝，并一直延续到奥陶纪初期。
 
 <p align="center">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/f3f354d8-bee0-4f65-8e49-fbc45bfe95aa" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/f3f354d8-bee0-4f65-8e49-fbc45bfe95aa" />
 </p>
 
 面对顶级掠食者的猖獗演化，低级的掠食者也对抗演化出各种防御措施，其中外骨骼及其不同的演化形态，成为了他们的主要防御措施。
