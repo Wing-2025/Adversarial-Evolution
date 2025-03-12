@@ -4,6 +4,11 @@
 
 <p align="center"><img width="1280" alt="image" src="https://github.com/user-attachments/assets/1fb561b8-c97f-4077-9d69-bafcc638dfd0" /></p>
 
+# 音频更新中！
+
+- 第一卷音频已更新完成
+- 第二卷持续更新中。
+
 # 对抗演化与合作跃升系列书籍
 
 原书连载链接：[有哪些让你浑身颤抖、无法自拔，庆幸读到的好书？](https://www.zhihu.com/question/39474276/answer/3424199358)
