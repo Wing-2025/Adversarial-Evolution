@@ -2,7 +2,8 @@
 
 近年来，人类科学技术得到了长足的发展，进入了技术奇点的时代，但精神文明和幸福感却每况愈下，焦虑感、虚无感不降反增……
 
-<p align="center"><img width="1280" alt="image" src="https://github.com/user-attachments/assets/1fb561b8-c97f-4077-9d69-bafcc638dfd0" /></p>
+<p align="center"><img width="1237" alt="image" src="https://github.com/user-attachments/assets/791f10de-f65e-4c58-9347-4ab662bf8962" />
+</p>
 
 # 音频更新中！
 
