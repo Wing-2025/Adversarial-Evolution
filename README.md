@@ -7,9 +7,8 @@
 
 # 音频更新中！
 
-- 第一卷音频已更新完成！
-- 第二卷音频已更新完成！
-- 喜马拉雅听书已开放！！！：https://www.ximalaya.com/album/87937952
+- 第一卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87937952
+- 第二卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87951327
 
 # 对抗演化与合作跃升系列书籍
 
