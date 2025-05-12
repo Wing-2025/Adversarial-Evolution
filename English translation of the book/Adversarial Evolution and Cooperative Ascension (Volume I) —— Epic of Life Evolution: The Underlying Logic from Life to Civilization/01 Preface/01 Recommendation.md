@@ -1,0 +1,27 @@
+# Recommendation
+
+"The only thing that will redeem mankind is co-operation."  
+(The only thing that can save humanity is cooperation)  
+[---Bertrand Russell (Russell, British philosopher, mathematician, logician, historian)]()  
+
+Over the years, the author has focused on the development of artificial intelligence and complexity science. In this book, the author presents a wealth of biological theories and historical facts, with rich content and novel arguments. The evolutionary trajectory and formation process of complex systems have long been a topic of concern. This book reveals that adaptability and evolution can create complexity, while adversarial co-evolution can accelerate the completion of evolution. I strongly recommend *Adversarial Evolution and Cooperative Ascension*—the author uses a vivid writing style to introduce the underlying logic of the evolution of various complex systems.  
+[---Zhang Jiang, Professor, School of Systems Science, Beijing Normal University]()  
+
+If you want to understand the driving forces behind the evolution of life forms across the world, this is an indispensable book.  
+The author applies game algorithm theory and delves into the origins of evolution and the evolutionary processes of species competing with one another through extensive factual evidence. Readers can follow the author’s simple and straightforward language to appreciate the fascinating laws governing the evolution from simple single-celled life to complex human societies.  
+[---Zhang Zhizhuo, MIT Research Scientist, Researcher at Quantum-Si, a gene sequencing company]()  
+
+I admire the time and effort the author has invested in this book. To my knowledge, there is no other systematic discussion in China on evolutionary biology and its application to human behavior. I believe the new theories proposed in this book deserve in-depth study.  
+[---Kevin Hong, PhD in Evolutionary Anthropology, Harvard University]()  
+
+This book bridges the biological perspective of *The Selfish Gene* and the humanistic perspective of *Sapiens: A Brief History of Humankind*. It explores the advantages of population strategies for species competition from a social perspective, as well as how populations balance excessive self-interest internally. The book reveals that biological evolution is not merely the result of natural selection on individual reproduction; it extends the drivers of evolution to the population level. Optimal population models further screen the phenotypic expressions of species internally, leading to evolutionary patterns that cannot be observed from an individual perspective!  
+[---Coral013, Zhihu Blogger]()  
+
+Since Darwin proposed the theory of evolution in the 19th century, with the rapid advancement of DNA-based genetics and its perfect alignment with evolutionary theory, its status in life science has been unshakable. However, due to historical reasons, the application of evolutionary theory in sociology has long been regarded as a taboo. Social Darwinism has been conflated with evil ideologies such as Nazism, severely hindering humanity’s exploration and understanding of the fundamental laws of sociology. Based on mainstream evolutionary theory, the author of this book attempts to extend it to fields such as social morality—a highly beneficial endeavor. The author has not only collected detailed biological cases but, as a computer expert, also possesses solid theoretical knowledge in evolutionary science, reflecting the author’s broad intellectual scope and profound analytical skills. I believe readers of all types will gain insights from this book.  
+[---Chu Liwen, Engaged in scientific research management at a U.S. biopharmaceutical company]()  
+
+I have been interested in history since childhood, and in recent years, I have become somewhat obsessed with exploring historical truths. Given my historical knowledge and current social conditions, I vaguely sense that modern people are generally trapped in a moral dilemma, which has become the greatest obstacle to the further development and achievement of universal happiness for the Chinese people and all humanity. This has left me deeply confused. The adversarial evolution theory in this book clarifies the fundamental principles, essentially explaining the entire process from the Big Bang to the birth of biological evolution, from the emergence of humans to the birth of human civilization, and from the gestation, development, and maturation of human civilization to its future evolution. Within this theoretical framework, I have found the impetus to deepen my own understanding. I am truly grateful! Although I have not yet fully grasped the全貌 of *Adversarial Evolution and Cooperative Ascension*, I am already filled with interest and anticipation for promoting this profoundly significant theory, and I hope to introduce it to more people.  
+[---Qiu Zhen, Zhihu Blogger]()  
+
+PS:  
+I believe every reader who has read this book will feel inspired. I encourage everyone to actively share their thoughts—I will continue to compile these into the recommendation section of future editions, so that more friends can quickly understand the value of this book. (Feelings, exchanges, and cooperation intentions can all be sent to Email: 382839044@qq.com)

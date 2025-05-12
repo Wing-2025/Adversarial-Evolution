@@ -1,0 +1,35 @@
+Evolution is hailed as one of the three major discoveries of natural science in the 19th century, and it stands as the most fundamental and core theory in modern biology. Moreover, its influence extends far beyond this realm. Over the past two centuries, the ideas of evolution have profoundly radiated into anthropology, sociology, psychology, and even political economy. The biologist and geneticist Theodosius Dobzhansky published an expository article on evolution in *The American Biology Teacher* under the title "Nothing in biology makes sense except in the light of evolution," which translates to "Without the light of evolution, nothing in biology can be understood." The paleontologist and Jesuit Teilhard de Chardin even declared: "Evolution is a light that illuminates all facts, a trajectory that all lines of thought must follow." Since its inception, evolution has been mired in long-term debate. Initially, the greatest adversary of evolution was creationism. Creationism countered evolution using scientific arguments: the absence of transitional fossils, issues regarding the Earth's age, the difficulty of gradual changes producing complex structures, the Cambrian explosion of species, and so on. With continuous advancements in archaeological evidence, the deciphering of genetic laws, the discovery of DNA as the genetic material and its internal mechanisms, the rise of molecular biology, and the proposal of the neutral theory of molecular evolution—both macro-trends and micro-evidence have consistently confirmed that biological evolution is a universally prevalent phenomenon. The correctness of the basic theories of evolution is now irrefutable. Yet, even today, there remains a significant number of people who doubt evolution. Such skeptical voices emanate not only from the general public but also from individuals with scientific literacy. This skepticism is particularly pronounced when evolution is discussed in conjunction with anthropology and sociology, leaving people perpetually uneasy.  
+
+# 2.1 Why Has Evolution Always Been Difficult to Accept?  
+
+Although evolution has been confirmed by multiple lines of evidence, some of its inferences remain difficult to accept:  
+
+[Within the theoretical framework of "survival of the fittest" and "natural selection favoring the adapted," selfless altruism (the tendency to help others without expecting reciprocation) seems nearly impossible to evolve; beastly behaviors and instincts, when occurring in humans, appear more consistent with evolutionary logic.]()  
+
+From a rational perspective, this inference is coherent, as humans seem to share no fundamental differences from other animals. Yet emotionally, this conclusion remains difficult to accept.  
+
+<p align="center">  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/5b79020c-0695-430e-ba87-080249680785" />  
+</p>  
+
+Based on this view, some argue that in the realm of human nature, the lofty and splendid acts of sacrificing oneself for righteousness or facing death unflinchingly are entirely irrational within an objective, rational evolutionary world. Human compassion, mutual aid, and philanthropic spirit seem like superfluous existences—for these behaviors do little to enhance one's "natural fitness."  
+
+[Some even conflate evolution with progress through selective interpretation, further establishing superficial criteria of superiority and inferiority. Using these criteria, racism can justify war; capitalists can rationalize the exploitation of workers; and political aristocracies can legitimize the creation of inequality.]()  
+
+The Chinese evolutionary biologist Zhang Dexing has also written: "Modern Chinese society has taken the concept of 'struggle for existence' and 'survival of the fittest' to an extreme, such that competition becomes the sole priority, only the strongest are entitled to everything, and individuals resort to any means to pursue self-interest."  
+
+Precisely due to such flaws, for a long period, sociology and anthropology felt compelled to distance themselves from evolution. Evolution became an academic taboo, and Social Darwinism became a pariah. Thus,  
+
+[The core issue with evolution is its inability to explain how altruism evolves, while a social state of "might makes right" appears more conducive to human evolution. This is akin to suggesting that humanity's extensive, and at times unreserved, noble altruistic behaviors scarcely resemble the biological behaviors of Earth's creatures.]()  
+
+Although many evolutionary biologists have drawn inspiration from eusocial organisms like ants and bees to formulate the "Group Selection" theory, this theory still harbors significant flaws as of the 21st century, such as excessively long selection cycles and the "selfish" implantation of genes. It has yet to gain widespread acceptance in academic circles.  
+
+At this point, we must mention Dawkins' globally influential book *The Selfish Gene*. This work unsparingly posits the theory that "genes are absolutely selfish" and uses the concepts of selfish genes and kin selection to explain the behaviors of bees and ants. A famous assertion in the book states:  
+
+[One of the most prominent characteristics of successful genes is their ruthless selfishness. This genetic selfishness often leads to individual selfishness. However, we also observe that some genes, in order to more effectively achieve their selfish goals, may, under certain special circumstances, give rise to a limited form of altruism. We emphasize the phrases "under certain special circumstances" and "limited" here. Despite our rational incredulity, concepts such as "universal love" and "common interests" hold virtually no meaning in evolutionary terms for entire species.]()  
+
+<p align="center">  
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/be8785ea-ef24-4ba9-aa24-3787f3599873" />  
+</p>  
+
+Dawkins' assertion has completely reshaped public understanding. If altruism cannot evolve, then a Hobbesian Jungle marked by cruelty, violence, and strife appears to be the natural state of human society, and such a state seems more conducive to human evolution and progress. Precisely because evolution leads to such alarming inferences, anti-evolutionary sentiments have gradually accumulated broad popular support. This support has fueled various anti-evolution movements in 20th-century America and indirectly spurred the formation of cultural determinism. Yet, in the end, these anti-evolutionary trends have largely failed to varying degrees. People seem to have returned to the crossroads of their original questions—can we truly trust evolution? Did humans evolve? Is altruism a product of culture, divine creation, or another evolutionary model? We will address these questions in this book, but in this chapter, we first revisit the impacts of Darwin's theory of evolution since its proposal and the century-long debates it has ignited.
