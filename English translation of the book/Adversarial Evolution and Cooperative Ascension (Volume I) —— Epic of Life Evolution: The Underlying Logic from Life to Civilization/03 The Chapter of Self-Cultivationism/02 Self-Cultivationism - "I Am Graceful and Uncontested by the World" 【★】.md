@@ -5,9 +5,12 @@ The reason this book frames its arguments around "Adversarial Evolution" rather 
 
 ["Evolution," however, differs. While it also results from adaptation to external environments, the "external environment" itself is continuously changing, causing the adaptability of evolved traits to shift accordingly. Thus, the direction of "Evolution" is not fixed—it changes with the environment—and there is no inherent hierarchy of superiority.]() For most biological traits, they merely adapt to temporary, non-permanent external conditions. Therefore, referring to the development of these traits as "Evolution" is more fitting. I have prepared the following table to provide a general comparative overview.  
 
-<p align="center">  
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/136766d9-cbef-4f7b-81f4-04d76702a8f4" />  
-</p>  
+| Adaptation Scope | Stability | Genetic Manipulation Space | Applicable Language | Examples |
+| ---- | ---- | ---- | ---- | ---- |
+| Physical and Mathematical Laws | Extremely High | Extremely Low | Evolution | More excellent algorithms (higher efficiency with the same computational cost), optimized wing structures, optimized fish body shapes (reducing wind and water resistance with the same amount of material) |
+| Natural Environment | High | Low | Evolution | Becoming more adapted to aquatic, dry, light - less, aerobic, and anaerobic environments, etc. |
+| Interspecific Struggle Environment | Medium | Medium | Adversarial Evolution | Gazelles running faster than their predators; insects evolving protective coloration to evade predators; parasitic organisms evolving parasitic behaviors (when the predators or hosts change, some traits lose their significance) |
+| Intraspecific Struggle Environment | Low | High | Adversarial Evolution | Sperm competition, infanticide, intraspecific brood parasitism, widow birds evolving long tails for sexual selection (these are often intraspecific "in - group competition" behaviors that are detrimental to natural fitness) |  
 
 ### Life Shaping the Environment—The Great Oxidation Event  
 Most life on Earth today relies on oxygen to survive; many animals would suffocate without it. Even oxygen-producing plants require oxygen for respiration. However, oxygen was not always present in Earth’s atmosphere. When the planet formed 4.6 billion years ago, the atmosphere consisted primarily of carbon dioxide, nitrogen, sulfur dioxide, and hydrogen sulfide. Oxygen began accumulating only 2.5 billion years ago, with the emergence of the first bacteria capable of using sunlight to decompose carbon dioxide and consume carbon atoms, thereby producing increasing amounts of oxygen. This oxygen, now vital to Earth’s life, is a product of ancient biological activity. This demonstrates that [organisms can fundamentally influence their environment—shaping it—and the environment, in turn, acts on life, directly shaping its future evolutionary trajectory.]()  
