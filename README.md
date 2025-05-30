@@ -5,7 +5,7 @@
 <p align="center"><img width="1237" alt="image" src="https://github.com/user-attachments/assets/791f10de-f65e-4c58-9347-4ab662bf8962" />
 </p>
 
-# 大模型导读更新完成！
+# 大模型全书导读更新中！
 
 - [全书导读](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
 
