@@ -7,7 +7,7 @@
 
 # 大模型导读更新完成！
 
-- [全书导读链接](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
+- [全书导读](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
 
 # 大模型英文翻译版更新中！
 
