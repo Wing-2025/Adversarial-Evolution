@@ -5,11 +5,7 @@
 <p align="center"><img width="1237" alt="image" src="https://github.com/user-attachments/assets/791f10de-f65e-4c58-9347-4ab662bf8962" />
 </p>
 
-# 大语言模型导读更新中！
-
-- 上卷导读已更新完成！
-- 中卷导读已制作中
-- 下卷导读已制作中
+# 大语言模型导读更新完成
 
 # 音频更新中！
 
