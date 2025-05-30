@@ -5,9 +5,11 @@
 <p align="center"><img width="1237" alt="image" src="https://github.com/user-attachments/assets/791f10de-f65e-4c58-9347-4ab662bf8962" />
 </p>
 
-# 大语言模型导读更新完成
+# 大模型导读更新完成！
 
-# 音频更新中！
+# 大模型英文翻译版更新中！
+
+# 大模型音频更新中！
 
 - 第一卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87937952
 - 第二卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87951327
