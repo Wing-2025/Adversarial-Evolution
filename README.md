@@ -16,8 +16,8 @@ https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%
 
 # 大模型音频更新中！
 
-- 第一卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87937952
-- 第二卷音频已更新完成！喜马拉雅链接：https://www.ximalaya.com/album/87951327
+- 第一卷音频喜马拉雅链接：https://www.ximalaya.com/album/87937952
+- 第二卷音频喜马拉雅链接：https://www.ximalaya.com/album/87951327
 
 # 对抗演化与合作跃升系列书籍
 
