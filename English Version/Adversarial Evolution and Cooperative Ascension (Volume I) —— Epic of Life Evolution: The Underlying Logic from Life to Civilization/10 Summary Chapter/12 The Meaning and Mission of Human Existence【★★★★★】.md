@@ -4,6 +4,7 @@ On the surface, humanity in the 21st century understands itself and the surround
 What humanity has truly lost is the capacity for awe and the rationale to pursue "greatness"—a cause for which humans would sacrifice themselves and through which they have already achieved brilliant accomplishments. Past "greatness" can almost all be deemed false, or even interpreted as a "conspiracy" of selfish genes. Humanity's confidence has been dealt an unprecedented blow. However, this book reveals another dimension of the meaning of "existence," or rather, the true essence of "selfish genes" and "biological evolution."  
 
 [I exist, therefore I think!]()  
+
 Precisely because we exist, we have the opportunity to think; if an idea is "correct" or "immortal," then the genes of the thinking subject will also be "immortal."  
 
 [Genetic strategies that do not contribute to the long-term survival of genes, the individuals shaped by such genes, and the "ways of thinking" of these individuals will all be eliminated. This is the underlying logic of evolution.]()  
