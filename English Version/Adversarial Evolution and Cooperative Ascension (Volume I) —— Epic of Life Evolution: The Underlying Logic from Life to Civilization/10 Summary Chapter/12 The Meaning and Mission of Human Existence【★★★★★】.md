@@ -11,7 +11,8 @@ Precisely because we exist, we have the opportunity to think; if an idea is "cor
 
 How, then, can a gene achieve "immortal survival"?  
 
-[Mad replication is a clumsy and short-sighted method; the truly astute means of selfish genes lies in "ordering."]()  
+[Mad replication is a clumsy and short-sighted method; the truly astute means of selfish genes lies in "ordering."]()
+
 For the more stable and controllable the environment, the more conducive it is to the long-term survival of genes and the generation of cooperative dividends. In theory, if a single individual exists infinitely stably, its genes would be "extremely successful"—far more astute than those genes that frantically replicate, plunder resources, then engage in grabbing conflicts, mutual destruction, and eventual collective extinction. Thus, the astute and far-sighted selfish genes truly pursue life forms characterized by [Self-Consistency, Robustness, Self-Repairability, Sustainability](). The foresightedness of genes is often manifested in how they establish mechanisms to avoid "grabbing" and sustain "cooperation." Many examples of this have been summarized earlier, so they need not be repeated here.  
 
 [Foresightedness is precisely the common characteristic exhibited by all these mechanisms.]()  
