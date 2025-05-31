@@ -1,29 +1,9 @@
 # 创作背景
 
-近年来，人类科学技术得到了长足的发展，进入了技术奇点的时代，但精神文明和幸福感却每况愈下，焦虑感、虚无感不降反增……
+近年来，人类科学技术得到了长足的发展，进入了技术奇点的时代，但精神文明和幸福感却每况愈下，焦虑感、虚无感不降反增，不利因素在暗中积累，兴衰规律在悄悄重演……
 
 <p align="center"><img width="1237" alt="image" src="https://github.com/user-attachments/assets/791f10de-f65e-4c58-9347-4ab662bf8962" />
 </p>
-
-# 全书已基本完成，持续优化中！
-
-- [生命演化的史诗：从生命到文明的底层逻辑](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89%20%E2%80%94%E2%80%94%E7%94%9F%E5%91%BD%E6%BC%94%E5%8C%96%E7%9A%84%E5%8F%B2%E8%AF%97%EF%BC%9A%E4%BB%8E%E7%94%9F%E5%91%BD%E5%88%B0%E6%96%87%E6%98%8E%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91)
-- [人类演化的史诗：人族起源与文明兴衰](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%AD%E5%8D%B7%EF%BC%89%E2%80%94%E2%80%94%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E7%9A%84%E5%8F%B2%E8%AF%97%EF%BC%9A%E4%BA%BA%E6%97%8F%E8%B5%B7%E6%BA%90%E4%B8%8E%E6%96%87%E6%98%8E%E5%85%B4%E8%A1%B0)
-- [生命奇迹与永生哲学](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89%E2%80%94%E2%80%94%E7%94%9F%E5%91%BD%E5%A5%87%E8%BF%B9%E4%B8%8E%E6%B0%B8%E7%94%9F%E5%93%B2%E5%AD%A6)
-
-# 全书导读更新中！
-
-- [全书导读](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
-
-# 英文翻译版更新中！
-
-- [Volume I —— Epic of Life Evolution/ The Underlying Logic from Life to Civilization](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20I)%20%E2%80%94%E2%80%94%20Epic%20of%20Life%20Evolution%3A%20The%20Underlying%20Logic%20from%20Life%20to%20Civilization)
-- [Volume II —— Epic of Human Evolution/ Origins of the Human Lineage and Rise and Fall of Civilizations](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20II)%20%E2%80%94%E2%80%94%20Epic%20of%20Human%20Evolution%3A%20Origins%20of%20the%20Human%20Lineage%20and%20Rise%20and%20Fall%20of%20Civilizations)
-
-# 全书音频更新中！
-
-- 第一卷音频喜马拉雅链接：https://www.ximalaya.com/album/87937952
-- 第二卷音频喜马拉雅链接：https://www.ximalaya.com/album/87951327
 
 # 对抗演化与合作跃升系列书籍
 
@@ -54,6 +34,26 @@
 **欢迎更多的，各方面的学者智者，喜欢思考、关心人类社会过去与未来的人参与进来，共同推进这一进程！请多多Star哦！**
 
 <p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/7d5f02da-b6f9-4e10-adb1-39b599b2db4b" /></p>
+
+# 全书已完成，持续优化中！
+
+- [生命演化的史诗：从生命到文明的底层逻辑](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89%20%E2%80%94%E2%80%94%E7%94%9F%E5%91%BD%E6%BC%94%E5%8C%96%E7%9A%84%E5%8F%B2%E8%AF%97%EF%BC%9A%E4%BB%8E%E7%94%9F%E5%91%BD%E5%88%B0%E6%96%87%E6%98%8E%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91)
+- [人类演化的史诗：人族起源与文明兴衰](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%AD%E5%8D%B7%EF%BC%89%E2%80%94%E2%80%94%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E7%9A%84%E5%8F%B2%E8%AF%97%EF%BC%9A%E4%BA%BA%E6%97%8F%E8%B5%B7%E6%BA%90%E4%B8%8E%E6%96%87%E6%98%8E%E5%85%B4%E8%A1%B0)
+- [生命奇迹与永生哲学](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%AF%B9%E6%8A%97%E6%BC%94%E5%8C%96%E4%B8%8E%E5%90%88%E4%BD%9C%E8%B7%83%E5%8D%87%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89%E2%80%94%E2%80%94%E7%94%9F%E5%91%BD%E5%A5%87%E8%BF%B9%E4%B8%8E%E6%B0%B8%E7%94%9F%E5%93%B2%E5%AD%A6)
+
+# 全书导读更新中！
+
+- [全书导读](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
+
+# 全书英文翻译版更新中！
+
+- [Volume I —— Epic of Life Evolution/ The Underlying Logic from Life to Civilization](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20I)%20%E2%80%94%E2%80%94%20Epic%20of%20Life%20Evolution%3A%20The%20Underlying%20Logic%20from%20Life%20to%20Civilization)
+- [Volume II —— Epic of Human Evolution/ Origins of the Human Lineage and Rise and Fall of Civilizations](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20II)%20%E2%80%94%E2%80%94%20Epic%20of%20Human%20Evolution%3A%20Origins%20of%20the%20Human%20Lineage%20and%20Rise%20and%20Fall%20of%20Civilizations)
+
+# 全书音频听书更新中！
+
+- 第一卷音频喜马拉雅链接：https://www.ximalaya.com/album/87937952
+- 第二卷音频喜马拉雅链接：https://www.ximalaya.com/album/87951327
 
 # 系列书籍参考文献
 
