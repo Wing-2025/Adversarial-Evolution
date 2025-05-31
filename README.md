@@ -45,13 +45,13 @@
 
 - [全书导读](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/%E5%85%A8%E4%B9%A6%E5%AF%BC%E8%AF%BB)
 
-# 全书英文翻译版更新中！
+# 英文翻译版更新中！
 
 - [Volume I —— Epic of Life Evolution/ The Underlying Logic from Life to Civilization](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20I)%20%E2%80%94%E2%80%94%20Epic%20of%20Life%20Evolution%3A%20The%20Underlying%20Logic%20from%20Life%20to%20Civilization)
 - [Volume II —— Epic of Human Evolution/ Origins of the Human Lineage and Rise and Fall of Civilizations](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20II)%20%E2%80%94%E2%80%94%20Epic%20of%20Human%20Evolution%3A%20Origins%20of%20the%20Human%20Lineage%20and%20Rise%20and%20Fall%20of%20Civilizations)
 - [Volume III —— Miracles of Life and Philosophy of Immortality](https://github.com/Wing-2025/Adversarial-Evolution/tree/main/English%20Version/Adversarial%20Evolution%20and%20Cooperative%20Ascension%20(Volume%20III)%20%E2%80%94%E2%80%94%20Miracles%20of%20Life%20and%20Philosophy%20of%20Immortality)
 
-# 全书音频听书更新中！
+# 音频听书更新中！
 
 - 第一卷音频喜马拉雅链接：https://www.ximalaya.com/album/87937952
 - 第二卷音频喜马拉雅链接：https://www.ximalaya.com/album/87951327
