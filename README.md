@@ -1,4 +1,4 @@
-<img width="845" alt="image" src="https://github.com/user-attachments/assets/ed46866d-32cf-4d40-b544-4ff3e4e0e8ef" /># 创作背景
+# 创作背景
 
 近年来，人类科学技术得到了长足的发展，进入了技术奇点的时代，但精神文明和幸福感却每况愈下，焦虑感、虚无感不降反增，不利因素在暗中积累，兴衰规律在悄悄重演……
 
