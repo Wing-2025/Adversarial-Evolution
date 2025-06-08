@@ -1,4 +1,4 @@
-# 创作背景
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/ed46866d-32cf-4d40-b544-4ff3e4e0e8ef" /># 创作背景
 
 近年来，人类科学技术得到了长足的发展，进入了技术奇点的时代，但精神文明和幸福感却每况愈下，焦虑感、虚无感不降反增，不利因素在暗中积累，兴衰规律在悄悄重演……
 
@@ -33,7 +33,8 @@
 
 **欢迎更多的，各方面的学者智者，喜欢思考、关心人类社会过去与未来的人参与进来，共同推进这一进程！请多多Star哦！**
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/7d5f02da-b6f9-4e10-adb1-39b599b2db4b" /></p>
+<p align="center"><img width="845" alt="image" src="https://github.com/user-attachments/assets/3e37fa41-c8e1-4533-a25e-a2603ccd48d7" />
+</p>
 
 # 全书三卷已完成，持续优化中！
 
